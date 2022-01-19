@@ -8,3 +8,6 @@ touch requirement.txt
 ##conda create -n envName python =3.7 -- it will create enviroment in c drive
 
 conda create --prefix ./env python =3.7 -y 
+
+
+conda activat ./env
