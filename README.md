@@ -10,4 +10,4 @@ touch requirement.txt
 conda create --prefix ./env python =3.7 -y 
 
 
-conda activat ./env
+conda activate ./env
