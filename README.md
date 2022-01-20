@@ -17,3 +17,8 @@ pip install -t requirement.txt
 
 #create new directory
 mkdir research_env 
+
+#start jupyter 
+jupyter-notebook
+
+
