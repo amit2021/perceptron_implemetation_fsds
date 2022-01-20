@@ -11,3 +11,9 @@ conda create --prefix ./env python =3.7 -y
 
 #activate enviroment
 conda activate ./env
+
+#install requirement files
+pip install -t requirement.txt
+
+#create new directory
+mkdir research_env 
